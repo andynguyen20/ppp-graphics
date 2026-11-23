@@ -42,6 +42,11 @@ ui_*.h
 *.pro.user
 CMakeLists.txt.user*
 
+# Documents and configuration files
+*.json
+*.pdf
+*.odt
+
 # Temporary files
 *.tmp
 *.bak
