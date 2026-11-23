@@ -1,1 +1,1 @@
-This is a Qt version of https://github.com/BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp
+My solutions to the graphics chapter in Programming Principles and Practice using C++ (Third Edition) by Bjarne Stroustrup
